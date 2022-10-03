@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header {
     background: #BBBBBB;
 }
@@ -165,7 +169,7 @@ td, th {
     margin: 0 0 1em;
 }
 
-.principals strong {
+.principal strong {
     font-weight: bold;
 }
 
@@ -183,3 +187,16 @@ td, th {
     width: 60%;
 }
 
+.mapa {
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+.video {
+    width: 560;
+    margin: 1em auto;
+}
