@@ -29,7 +29,6 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
-
 }
 
 nav a:hover {
@@ -92,6 +91,11 @@ footer {
     color: #FFFFFF;
     font-size: 13px;
     margin-top: 20px;
+}
+
+.cetralizar-form {
+    width: 940px;
+    margin: 0 auto;
 }
 
 form {
