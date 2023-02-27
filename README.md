@@ -19,5 +19,5 @@
 </div>          
           
 ## :raising_hand_man: Autores
-| [<img src="https://user-images.githubusercontent.com/106707389/187273477-45a53362-7158-4c5e-b0f5-68c92aec9182.png" width=115><br><sub>Alura</sub>](https://www.alura.com.br) || [<img src="https://avatars.githubusercontent.com/u/106707389?s=400&u=c01ee84b19a35b975ac9634deb3baf48d681a4c5&v=4" width=115><br><sub>Mateus Paiva</sub>](https://github.com/mateusopaiva) |
-| :---: | :---: | :---: |
+| [<img src="https://user-images.githubusercontent.com/106707389/187273477-45a53362-7158-4c5e-b0f5-68c92aec9182.png" width=115><br><sub>Alura</sub>](https://www.alura.com.br) |
+| :---: |
